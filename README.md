@@ -1,2 +1,2 @@
 # Node-Express-perusharjoitus
-Esimerkkejä Node.js-sovelluksen lumisesta
+Esimerkkejä Node.js-sovelluksen luomisesta
