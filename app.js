@@ -58,4 +58,4 @@ app.get('/about',(req, res) => {
 
 // Käynnistetään palvelin
 app.listen(PORT);
-console.log('Palvelin käynnistetty portissa', PORT);
+console.log(`Palvelin käynnistetty portissa ${PORT}`);
