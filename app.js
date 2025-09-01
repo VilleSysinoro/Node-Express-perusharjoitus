@@ -37,7 +37,7 @@ app.get('/',(req, res) => {
 
     // Muodostetaan JSON-objekti, joka voidaan lähettää sivulle korvaamaan {{}}-muuttujat
     let dataToSend = {
-        'dayname': today,
+        'dayName': today,
         'menu': food
     };
 
